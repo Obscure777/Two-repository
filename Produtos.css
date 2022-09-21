@@ -78,3 +78,13 @@ produto-preco{
      font-weigth: bold;
      magin-top: 10px;
 }
+
+footer {
+   text-align: center;
+   background: url("bg.jpg");
+   padding: 40px 0;
+}
+
+.copy-rigth{
+
+}
